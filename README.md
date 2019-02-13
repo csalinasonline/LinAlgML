@@ -54,8 +54,6 @@ https://git-scm.com/downloads
 ```console
 mkdir JupyterProjects
 cd JupyterProjects
-mkdir LinAlgML
-cd LinAlgML
 ```
 3) Pull repo
 ```console
@@ -78,6 +76,7 @@ pip install -r requirements.txt
 ```
 8) Go into Notebooks
 ```console
+cd LinAlgML
 cd Notebooks
 ```
 9) Try it out!
