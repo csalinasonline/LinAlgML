@@ -46,4 +46,33 @@
 ## Cheatsheet
 
 ## Setup Development Environment
+
+1) Install Git
+https://git-scm.com/downloads
+
+2) Go into terminal and make dir (assuming current dir home), cd into it
+>> mkdir JupyterProjects
+>> cd JupyterProjects
+>> mkdir LinAlgML
+>> cd LinAlgML
+
+3) Pull repo
+git clone https://github.com/csalinasonline/LinAlgML.git
+
+4) Download Anaconda
+https://www.anaconda.com/
+
+5) Create a Conda env
+>> conda create -n "blah..." python=3.6
+
+6) Activate env
+>> conda activate "blah..."
+
+7) Pip install requirements
+>> pip install -r requirements.txt
+
+8) Go into Notebooks
+>> cd Notebooks
+
+9) Try it out!
   
