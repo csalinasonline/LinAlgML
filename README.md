@@ -51,28 +51,34 @@
 https://git-scm.com/downloads
 
 2) Go into terminal and make dir (assuming current dir home), cd into it
->> mkdir JupyterProjects
->> cd JupyterProjects
->> mkdir LinAlgML
->> cd LinAlgML
-
+```console
+mkdir JupyterProjects
+cd JupyterProjects
+mkdir LinAlgML
+cd LinAlgML
+```
 3) Pull repo
+```console
 git clone https://github.com/csalinasonline/LinAlgML.git
-
+```
 4) Download Anaconda
 https://www.anaconda.com/
 
 5) Create a Conda env
->> conda create -n "blah..." python=3.6
-
+```console
+conda create -n "blah..." python=3.6
+```
 6) Activate env
->> conda activate "blah..."
-
+```console
+conda activate "blah..."
+```
 7) Pip install requirements
->> pip install -r requirements.txt
+```console
+pip install -r requirements.txt
 
 8) Go into Notebooks
->> cd Notebooks
-
+```console
+cd Notebooks
+```
 9) Try it out!
   
