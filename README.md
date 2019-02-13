@@ -75,7 +75,7 @@ conda activate "blah..."
 7) Pip install requirements
 ```console
 pip install -r requirements.txt
-
+```
 8) Go into Notebooks
 ```console
 cd Notebooks
