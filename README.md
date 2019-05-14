@@ -31,10 +31,23 @@
   * C9S4, Matrix Multiplication and Division
   * C9S4, Matrix and Matrix Dot Product
   * C9S6, Matrix and Vector Dot Product
-  * TODO
+  * C9S7, Matrix-Scalar Multiplication 
 * C10, Types of Matrices
+  * C10S2, Square Matrix
+  * C10S3, Symmetric Matrix
+  * C10S4, Triangular Matrix
+  * C10S5, Diagonal Matrix
+  * C10S6, Identity Matrix
+  * C10S7, Orthogonal Matrix
 * C11, Matrix Operations
+  * C11S2, Transpose
+  * C11S3, Inverse
+  * C11S4, Trace
+  * C11S5, Determinant
+  * C11S6, Rank
 * C12, Sparse Matrices
+  * C12S2, Sparse Matrix
+  TODO
 * C13, Tensors and Tensor Arithmetic
 * C14, Matrix Decompositions
 * C15, Eigendecomposition
