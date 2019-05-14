@@ -47,7 +47,19 @@
   * C11S6, Rank
 * C12, Sparse Matrices
   * C12S2, Sparse Matrix
-  TODO
+  * C12S3, Problems with Sparsity (No example)
+    * Space Complexity
+    * Time Complexity
+  * C12S4, Sparse Matricies in ML (No example)
+    * Data
+    * Data Preperation
+  * C12S5, Working with Sparse  Matricies (No example)
+    * Dictionary of Keys
+    * List of Lists
+    * Coordinate List
+    * Compressed Sparse Row (CSR)
+    * Compressed Sparse Column (CSC)
+  * C12S6, Sparse Matricies in Python
 * C13, Tensors and Tensor Arithmetic
 * C14, Matrix Decompositions
 * C15, Eigendecomposition
