@@ -61,8 +61,19 @@
     * Compressed Sparse Column (CSC)
   * C12S6, Sparse Matricies in Python
 * C13, Tensors and Tensor Arithmetic
+    * C13S3, Tensors in Python
+    * C13S4, Tensor Arithmetic
+      * C13S41, Tensor Addition
+      * C13S42, Tensor Subtraction
+      * C13S43, Tensor Hadmarard Product
+      * C13S44, Tensor Division
+      * C13S45, Tensor Product
 * C14, Matrix Decompositions
+    * C14S3, LU Decomposition
+    * C14S4, QR Decomposition
+    * C14S5, Cholesky Decomposition
 * C15, Eigendecomposition
+  * TODO
 * C16, Singular Value Decomposition
 * C17, Intro to Multivariate Statistics
 * C18, Principal Component Analysis
