@@ -73,8 +73,13 @@
     * C14S4, QR Decomposition
     * C14S5, Cholesky Decomposition
 * C15, Eigendecomposition
-  * TODO
+  * C15S2, Eigendecomposition of a Matrix (No example)
+  * C15S3, Eigenvectors and Eigenvalues
+  * C15S4, Calculation of Eigendecomposition
+  * C15S5, Confirgm Eigenvector and Eigenvalue
+  * C15S6, Reconstruct Matrix
 * C16, Singular Value Decomposition
+  * TODO
 * C17, Intro to Multivariate Statistics
 * C18, Principal Component Analysis
 * C19, Linear Regression
